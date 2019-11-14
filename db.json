@@ -1,0 +1,88 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "小陈",
+            "age": 18,
+            "gender": 1,
+            "hobbies": "睡觉、吃饭"
+        },
+        {
+            "id": 2,
+            "name": "豪哥",
+            "age": 18,
+            "gender": 1,
+            "hobbies": "睡觉、吃饭、学习"
+        },
+        {
+            "id": 3,
+            "name": "小林",
+            "age": 18,
+            "gender": 1,
+            "hobbies": "睡觉、吃饭、打游戏"
+        },
+        {
+            "id": 4,
+            "name": "林炯畅",
+            "age": 18,
+            "gender": 1,
+            "hobbies": "睡觉、吃饭、吃鸡"
+        },
+        {
+            "id": 6,
+            "name": "王志佳",
+            "age": 18,
+            "gender": 1,
+            "hobbies": "睡觉、吃饭、王者荣耀、吃鸡"
+        },
+        {
+            "id": 7,
+            "name": "小jiao",
+            "age": 18,
+            "gender": 1,
+            "hobbies": "睡觉、吃饭、玩游戏"
+        },
+        {
+            "id": 8,
+            "name": "大肥弟",
+            "age": "18",
+            "gender": "0",
+            "hobbies": "睡觉、吃饭、王者荣耀、吃鸡"
+        },
+        {
+            "id": 9,
+            "name": "袁家宇",
+            "age": 18,
+            "gender": 1,
+            "hobbies": "睡觉、吃饭、上清华"
+        },
+        {
+            "id": 10,
+            "name": "孙某",
+            "age": 18,
+            "gender": 1,
+            "hobbies": "睡觉、吃饭、上王者"
+        },
+        {
+            "id": 11,
+            "name": "孙锐捷",
+            "age": 18,
+            "gender": 1,
+            "hobbies": "睡觉、吃饭、上王者"
+        },
+        {
+            "name": "小红",
+            "gender": "1",
+            "age": "20",
+            "hobbies": "读书",
+            "id": 15
+        },
+        {
+            "name": "小肥弟",
+            "gender": "0",
+            "age": "18",
+            "hobbies": "睡觉、吃饭、王者荣耀、吃鸡",
+            "id": 16
+        }
+    ]
+}
